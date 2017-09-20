@@ -66,6 +66,7 @@
 		99149B041F72D2900014BBFA = {
 			isa = PBXGroup;
 			children = (
+				99149B571F72EC5A0014BBFA /* Sources */,
 				99149B0F1F72D2900014BBFA /* SCNProgramTestbed */,
 				99149B421F72E7930014BBFA /* SCNProgramTestbed-iOS */,
 				99149B0E1F72D2900014BBFA /* Products */,
@@ -91,8 +92,6 @@
 				99149B181F72D2900014BBFA /* Main.storyboard */,
 				99149B1B1F72D2900014BBFA /* Info.plist */,
 				99149B1C1F72D2900014BBFA /* SCNProgramTestbed.entitlements */,
-				99149B221F72E16C0014BBFA /* functions.metal */,
-				99149B3A1F72E6F40014BBFA /* TestNode.swift */,
 			);
 			path = SCNProgramTestbed;
 			sourceTree = "<group>";
@@ -109,6 +108,15 @@
 				99149B511F72E7930014BBFA /* Info.plist */,
 			);
 			path = "SCNProgramTestbed-iOS";
+			sourceTree = "<group>";
+		};
+		99149B571F72EC5A0014BBFA /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				99149B221F72E16C0014BBFA /* functions.metal */,
+				99149B3A1F72E6F40014BBFA /* TestNode.swift */,
+			);
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

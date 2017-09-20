@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SCNProgramTestbed.xcodeproj">
+      location = "self:/Users/mnmly/Development/prototypes/Native/macOS/Sketches/SCNProgramTestbed/SCNProgramTestbed.xcodeproj">
    </FileRef>
 </Workspace>
